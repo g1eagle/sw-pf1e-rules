@@ -60,5 +60,14 @@
     "path": "packs/sw-potion-book.db",
     "entity": "Item",
     "module": "sw-pf1e-rules"
-  }]
+      },
+          {
+    "name": "swpf-buffs",
+    "label": "SWPF-Buffs",
+    "system": "pf1",
+    "path": "packs/sw-buffs.db",
+    "entity": "Item",
+    "module": "sw-pf1e-rules"
+  }
+  ]
 }

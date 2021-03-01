@@ -9,9 +9,9 @@
   "author": "Steven Whitelock",
   "url":"https://github.com/g1eagle/sw-pf1e-rules/",
   "manifest": "https://github.com/g1eagle/sw-pf1e-rules/edit/main/module.json",
-  "download":"https://github.com/baileymh/pf1e-archetypes/releases/download/0.1/pf1e-archetypes_v0.1.zip",
-  "readme":"https://github.com/baileymh/pf1e-archetypes/blob/main/README.md",
-  "changelog":"https://github.com/baileymh/pf1e-archetypes/blob/main/changelog.md",
+  "download":"https://github.com/g1eagle/sw-pf1e-rules/archive/main.zip",
+  "readme":"https://github.com/g1eagle/sw-pf1e-rules/blob/main/README.md",
+  "changelog":"https://github.com/g1eagle/sw-pf1e-rules/blob/main/changelog.md",
   "packs": [
   {
     "name": "pf-archetypes",

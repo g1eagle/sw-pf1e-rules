@@ -1,0 +1,39 @@
+{
+	"name": "sw-pf1e-rules",
+	"title": "SW additional items for play",
+	"description": "<p>Additional PF1E Rules, class or items</p>",
+	"version": "0.1.1",
+	"minimumCoreVersion": "0.7.9",
+	"compatibleCoreVersion": "0.7.9",
+        "systems": ["pf1"],
+	"author": "SW",
+	"packs": [{
+			"name": "SWPF1EArmor",
+			"label": "SW PF1E Armor",
+			"path": "/packs/sw-armor.db",
+			"entity": "items"
+                        "module": "sw-pf1e-rules"
+		},
+		{
+			"name": "SWPF1EClasses",
+			"label": "SW PF1E Classes",
+			"path": "/packs/sw-classes.db",
+			"entity": "items"
+                        "module": "sw-pf1e-rules"
+		},
+		{
+			"name": "SWPF1ERaces",
+			"label": "SW PF1E Races",
+			"path": "/packs/sw-races.db",
+			"entity": "items"
+                        "module": "sw-pf1e-rules"
+		},
+		{
+			"name": "SWPF1EFeats",
+			"label": "SW PF1E Feats",
+			"path": "/packs/sw-feats.db",
+			"entity": "items"
+                        "module": "sw-pf1e-rules"
+		}
+	]
+}

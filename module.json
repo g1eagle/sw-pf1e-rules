@@ -1,39 +1,40 @@
 {
-	"name": "sw-pf1e-rules",
-	"title": "SW additional items for play",
-	"description": "<p>Additional PF1E Rules, class or items</p>",
-	"version": "0.1.1",
-	"minimumCoreVersion": "0.7.9",
-	"compatibleCoreVersion": "0.7.9",
-        "systems": ["pf1"],
-	"author": "SW",
-	"packs": [{
-			"name": "SWPF1EArmor",
-			"label": "SW PF1E Armor",
-			"path": "/packs/sw-armor.db",
-			"entity": "items"
-                        "module": "sw-pf1e-rules"
-		},
-		{
-			"name": "SWPF1EClasses",
-			"label": "SW PF1E Classes",
-			"path": "/packs/sw-classes.db",
-			"entity": "items"
-                        "module": "sw-pf1e-rules"
-		},
-		{
-			"name": "SWPF1ERaces",
-			"label": "SW PF1E Races",
-			"path": "/packs/sw-races.db",
-			"entity": "items"
-                        "module": "sw-pf1e-rules"
-		},
-		{
-			"name": "SWPF1EFeats",
-			"label": "SW PF1E Feats",
-			"path": "/packs/sw-feats.db",
-			"entity": "items"
-                        "module": "sw-pf1e-rules"
-		}
-	]
+  "name": "sw-pf1e-rules",
+  "title": "SW additional items for play",
+  "description": "Additional PF1E Rules, classes or items",
+  "version": "0.1.1",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+  "systems": ["pf1"],
+  "author": "Steven Whitelock",
+  "url":"https://github.com/g1eagle/sw-pf1e-rules/",
+  "manifest": "https://github.com/g1eagle/sw-pf1e-rules/edit/main/module.json",
+  "download":"https://github.com/baileymh/pf1e-archetypes/releases/download/0.1/pf1e-archetypes_v0.1.zip",
+  "readme":"https://github.com/baileymh/pf1e-archetypes/blob/main/README.md",
+  "changelog":"https://github.com/baileymh/pf1e-archetypes/blob/main/changelog.md",
+  "packs": [
+  {
+    "name": "pf-archetypes",
+    "label": "PF-Archetypes",
+    "system": "pf1",
+    "path": "packs/pf-archetypes.db",
+    "entity": "Class",
+    "module": "pf1e-archetypes"
+  },
+      {
+    "name": "pf-class-abilities",
+    "label": "PF-Class Abilities",
+    "system": "pf1",
+    "path": "packs/pf-class-abilities.db",
+    "entity": "Item",
+    "module": "pf1e-archetypes"
+  },
+      {
+    "name": "pf-arch-features",
+    "label": "PF-Archetype Features",
+    "system": "pf1",
+    "path": "packs/pf-arch-features.db",
+    "entity": "Item",
+    "module": "pf1e-archetypes"
+  }]
 }

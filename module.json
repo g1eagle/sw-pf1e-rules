@@ -8,7 +8,7 @@
   "systems": ["pf1"],
   "author": "Steven Whitelock",
   "url":"https://github.com/g1eagle/sw-pf1e-rules/",
-  "manifest": "https://github.com/g1eagle/sw-pf1e-rules/edit/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/g1eagle/sw-pf1e-rules/main/module.json",
   "download":"https://github.com/g1eagle/sw-pf1e-rules/archive/main.zip",
   "readme":"https://github.com/g1eagle/sw-pf1e-rules/blob/main/README.md",
   "changelog":"https://github.com/g1eagle/sw-pf1e-rules/blob/main/changelog.md",

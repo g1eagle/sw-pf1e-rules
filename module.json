@@ -2,7 +2,7 @@
   "name": "sw-pf1e-rules",
   "title": "SW additional items for play",
   "description": "Additional PF1E Rules, classes or items",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
   "systems": ["pf1"],
@@ -14,27 +14,51 @@
   "changelog":"https://github.com/g1eagle/sw-pf1e-rules/blob/main/changelog.md",
   "packs": [
   {
-    "name": "pf-archetypes",
-    "label": "PF-Archetypes",
+    "name": "swpf-classes",
+    "label": "SWPF-Classes",
     "system": "pf1",
-    "path": "packs/pf-archetypes.db",
-    "entity": "Class",
-    "module": "pf1e-archetypes"
+    "path": "packs/sw-classes.db",
+    "entity": "Item",
+    "module": "sw-pf1e-rules"
   },
       {
-    "name": "pf-class-abilities",
-    "label": "PF-Class Abilities",
+    "name": "swpf-class-abilities",
+    "label": "SWPF-Class Abilities",
     "system": "pf1",
-    "path": "packs/pf-class-abilities.db",
+    "path": "packs/sw-classabilities.db",
     "entity": "Item",
-    "module": "pf1e-archetypes"
+    "module": "sw-pf1e-rules"
   },
       {
-    "name": "pf-arch-features",
-    "label": "PF-Archetype Features",
+    "name": "swpf-feats",
+    "label": "SWPF-Feats",
     "system": "pf1",
-    "path": "packs/pf-arch-features.db",
+    "path": "packs/sw-feats.db",
     "entity": "Item",
-    "module": "pf1e-archetypes"
+    "module": "sw-pf1e-rules"
+  },
+      {
+    "name": "swpf-races",
+    "label": "SWPF-Races",
+    "system": "pf1",
+    "path": "packs/sw-races.db",
+    "entity": "Item",
+    "module": "sw-pf1e-rules"
+  },
+      {
+    "name": "swpf-armor",
+    "label": "SWPF-Armor",
+    "system": "pf1",
+    "path": "packs/sw-armor.db",
+    "entity": "Item",
+    "module": "sw-pf1e-rules"
+  },
+      {
+    "name": "swpf-potions",
+    "label": "SWPF-Potions",
+    "system": "pf1",
+    "path": "packs/sw-potion-book.db",
+    "entity": "Item",
+    "module": "sw-pf1e-rules"
   }]
 }

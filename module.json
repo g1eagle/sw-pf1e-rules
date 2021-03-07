@@ -68,7 +68,7 @@
     "path": "packs/sw-buffs.db",
     "entity": "Item",
     "module": "sw-pf1e-rules"
-  }
+  },
           {
     "name": "swpf-macros",
     "label": "SWPF-Macros",
@@ -77,6 +77,5 @@
     "entity": "Macros",
     "module": "sw-pf1e-rules"
   }
-    
   ]
 }

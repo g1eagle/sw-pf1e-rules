@@ -74,7 +74,7 @@
     "label": "SWPF-Macros",
     "system": "pf1",
     "path": "packs/sw-macros.db",
-    "entity": "Macros",
+    "entity": "Macro",
     "module": "sw-pf1e-rules"
   }
   ]

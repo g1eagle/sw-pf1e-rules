@@ -2,7 +2,7 @@
   "name": "sw-pf1e-rules",
   "title": "SW additional items for play",
   "description": "Additional PF1E Rules, classes or items",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
   "systems": ["pf1"],

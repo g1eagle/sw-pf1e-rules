@@ -18,7 +18,7 @@
     "label": "SWPF-Classes",
     "system": "pf1",
     "path": "packs/sw-classes.db",
-    "entity": "Class",
+    "entity": "Item",
     "module": "sw-pf1e-rules"
   },
       {

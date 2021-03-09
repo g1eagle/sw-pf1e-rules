@@ -17,7 +17,7 @@
     "name": "swpf-classes",
     "label": "SWPF-Classes",
     "system": "pf1",
-    "path": "packs/sw-classes.db",
+    "path": "packs/swpf-classes.db",
     "entity": "Item",
     "module": "sw-pf1e-rules"
   },
@@ -25,7 +25,7 @@
     "name": "swpf-class-abilities",
     "label": "SWPF-Class Abilities",
     "system": "pf1",
-    "path": "packs/sw-class-abilities.db",
+    "path": "packs/swpf-class-abilities.db",
     "entity": "Item",
     "module": "sw-pf1e-rules"
   },
@@ -33,7 +33,7 @@
     "name": "swpf-feats",
     "label": "SWPF-Feats",
     "system": "pf1",
-    "path": "packs/sw-feats.db",
+    "path": "packs/swpf-feats.db",
     "entity": "Item",
     "module": "sw-pf1e-rules"
   },
@@ -41,7 +41,7 @@
     "name": "swpf-races",
     "label": "SWPF-Races",
     "system": "pf1",
-    "path": "packs/sw-races.db",
+    "path": "packs/swpf-races.db",
     "entity": "Item",
     "module": "sw-pf1e-rules"
   },
@@ -49,7 +49,7 @@
     "name": "swpf-armor",
     "label": "SWPF-Armor",
     "system": "pf1",
-    "path": "packs/sw-armor.db",
+    "path": "packs/swpf-armor.db",
     "entity": "Item",
     "module": "sw-pf1e-rules"
   },
@@ -57,7 +57,7 @@
     "name": "swpf-potions",
     "label": "SWPF-Potions",
     "system": "pf1",
-    "path": "packs/sw-potion-book.db",
+    "path": "packs/swpf-potion-book.db",
     "entity": "Item",
     "module": "sw-pf1e-rules"
       },
@@ -65,7 +65,7 @@
     "name": "swpf-buffs",
     "label": "SWPF-Buffs",
     "system": "pf1",
-    "path": "packs/sw-buffs.db",
+    "path": "packs/swpf-buffs.db",
     "entity": "Item",
     "module": "sw-pf1e-rules"
   },
@@ -73,7 +73,7 @@
     "name": "swpf-macros",
     "label": "SWPF-Macros",
     "system": "pf1",
-    "path": "packs/sw-macros.db",
+    "path": "packs/swpf-macros.db",
     "entity": "Macro",
     "module": "sw-pf1e-rules"
   }
